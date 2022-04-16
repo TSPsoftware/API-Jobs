@@ -14,9 +14,9 @@
 
 <p>Créditos:</p>
 
-<p>Sricpt de mensagens do whatsapp: <https://github.com/Matt-Fontes></p>
+<p>Sricpt de mensagens do whatsapp: https://github.com/Matt-Fontes</p>
   
-<p>Edição Cyberpunk 2077: <https://github.com/TSPsoftware?tab=repositories></p>
+<p>Edição Cyberpunk 2077: https://github.com/TSPsoftware?tab=repositories</p>
 
 ### API voltada para vagas de emprego no Brasil 
 <p>Esta API possuí dois níveis de autenticação para que ela possa ser utilizada, essa autenticação difere na quantidade de opções e recursos, se adequando as necessidades específicas de cada sistema.</p>  
